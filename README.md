@@ -16,7 +16,7 @@ This is a Flask-based web application that predicts the likelihood of a forest f
 
 ## 📸 Screenshot
 
-![Prediction Output](screenshots/output.png)  
+![Prediction Output](./output.png)  
 *A sample prediction result from the application.*
 
 ## 🧪 Run Locally
